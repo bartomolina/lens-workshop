@@ -1,5 +1,27 @@
 # Lens Workshop
 
+<!-- TABLE OF CONTENTS -->
+<summary>Índice</summary>
+<ol>
+  <li>
+    <a href="#dudas--contacto">Dudas / Contacto</a>
+  </li>
+  <li>
+    <a href="#requisitos">Requisitos</a>
+  </li>
+  <ul>
+    <li>
+      <a href="#instalaci%C3%B3n-de-metamask">Instalación de Metamask</a>
+    </li>
+    <li>
+      <a href="#a%C3%B1adir-la-red-de-polygon--mumbai-a-metamask">Añadir la red de Polygon / Mumbai a Metamask</a>
+    </li>
+    <li>
+      <a href="#a%C3%B1adir-fondos-de-testnet">Añadir fondos de testnet</a>
+    </li>
+  </ul>
+</ol>
+
 ## Dudas / Contacto
 
 [Telegram](https://t.me/bartomolina) / [Twitter](https://twitter.com/bartomolina)
@@ -35,10 +57,10 @@ Una vez que hayas añadido la red, confirma que se ha añadido a Metamask
 
 Para realizar los workshops es necesario disponer del token MATIC en Mumbai. Alchemy es una empresa de infraestructura Web3 que ofrece MATIC de Mumbai gratis a través del sitio de [Faucet de Mumbai](https://mumbaifaucet.com/)
 
-1. [Registro en Alchemy](https://auth.alchemy.com/signup)
+1. Regístrate en el sitio de [Alchemy](https://auth.alchemy.com/signup)
 2. Accede al sitio de [Mumbai Faucet](https://mumbaifaucet.com/), y entra con tu cuenta de Alchemy
 
-<img src="https://raw.githubusercontent.com/bartomolina/lens-workshop/main/img/readme/faucet.1.png" width="400" />
+<img src="https://raw.githubusercontent.com/bartomolina/lens-workshop/main/img/readme/faucet.1.png" width="600" />
 
 3. Copia la dirección pública de tu Wallet en Metamask haciendo click en el nombre de la cuenta y reclama los MATIC de testnet desde el sitio de Mumbai Faucet. Puedes reclamar 0.5 MATIC cada 24h. pero 0.5 son suficientes para realizar el workshop
 
