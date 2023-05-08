@@ -35,9 +35,14 @@ Una vez que hayas añadido la red, confirma que se ha añadido a Metamask
 
 Para realizar los workshops es necesario disponer del token MATIC en Mumbai. Alchemy es una empresa de infraestructura Web3 que ofrece MATIC de Mumbai gratis a través del sitio de [Faucet de Mumbai](https://mumbaifaucet.com/)
 
-1. Registro en Alchemy (https://auth.alchemy.com/signup)
-2. Copia la dirección pública de tu Wallet
-3. Reclama 0.5 MATIC desde el sitio de Mumbai Faucet (https://mumbaifaucet.com/). Puedes reclamar 0.5 MATIC cada 24h.
+1. [Registro en Alchemy](https://auth.alchemy.com/signup)
+2. Accede al sitio de [Mumbai Faucet](https://mumbaifaucet.com/), y entra con tu cuenta de Alchemy
+
+<img src="https://raw.githubusercontent.com/bartomolina/lens-workshop/main/img/readme/faucet.1.png" width="400" />
+
+3. Copia la dirección pública de tu Wallet en Metamask haciendo click en el nombre de la cuenta y reclama los MATIC de testnet desde el sitio de Mumbai Faucet. Puedes reclamar 0.5 MATIC cada 24h. pero 0.5 son suficientes para realizar el workshop
+
+<img src="https://raw.githubusercontent.com/bartomolina/lens-workshop/main/img/readme/mm.7.png" width="200" />
 
 ## Lab.1 - Crea un token ERC-20 en Mumbai, la red de pruebas de Polygon
 
