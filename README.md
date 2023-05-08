@@ -1,7 +1,7 @@
 # Lens Workshop
 
 <!-- TABLE OF CONTENTS -->
-<summary>Índice</summary>
+Índice
 <ol>
   <li>
     <a href="#dudas--contacto">Dudas / Contacto</a>
